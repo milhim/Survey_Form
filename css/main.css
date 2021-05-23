@@ -1,0 +1,55 @@
+*{
+     box-sizing: border-box;
+     font-family:  Courier, monospace;
+     font-size: 18px;
+     font-weight: bold;
+}
+body{
+  
+  /*  background: url('../media/images/Debate.jpg') ; */
+     opacity: 0.9;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+     color: #F3F3F3;
+     background-color: #55568F;
+}
+
+#title{
+     text-align: center;
+     padding: 1%;
+}
+#description{
+     text-align: center;
+
+}
+#survey-form{
+     background-color: #2A2A4A;
+     padding: 2%;
+     width: 50%;
+     display: flex;
+     margin: auto;
+     border-radius: 5px;
+     flex-direction: column;
+     justify-items: center;
+}
+#name,#name-label,#email,#email-label,#number,#number-label,.radio,.select,.checkbox,.text-area{
+     padding: 1%;
+     margin: 0.5%;
+}
+#survey-form textarea{
+     width: 100%;
+     min-height: 100px;
+     resize: vertical;
+}
+#survey-form input[type=submit]{
+    background-color: #37AF65;
+    color: #F3F3F3;
+    padding: 2%;
+    border-radius: 5px;
+    margin: 2%;
+    cursor: pointer;
+}
+
+
+
