@@ -59,8 +59,7 @@ body{
 
 @media   (max-width: 600px ) {
      #survey-form,h1,p{
-          width: 100%;
-          margin: 0;
+          width: 99%;
           padding: 1%;
      }
 }
