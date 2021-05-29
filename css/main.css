@@ -54,14 +54,9 @@ body{
 }
 
 
-<<<<<<< HEAD
 @media   (max-width: 600px ) {
      #survey-form,h1,p{
-=======
-@media only screen   (max-width: 600px ) {
-     #survey-form{
->>>>>>> 153f105626896d8d5e6bc8984c545aec401b04e2
-          width: 95%;
+          width: 100%;
      }
 }
 
