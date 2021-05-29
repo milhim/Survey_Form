@@ -55,7 +55,7 @@ body{
 
 
 @media   (max-width: 600px ) {
-     #survey-form{
+     #survey-form,h1,p{
           width: 95%;
      }
 }
