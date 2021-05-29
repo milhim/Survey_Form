@@ -54,7 +54,7 @@ body{
 }
 
 
-@media   (max-width: 600px ) {
+@media only screen   (max-width: 600px ) {
      #survey-form{
           width: 95%;
      }
