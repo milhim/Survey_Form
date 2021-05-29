@@ -26,11 +26,7 @@ body{
 #survey-form{
      background-color: #2A2A4A;
      padding: 2%;
-<<<<<<< HEAD
      width:60%;
-=======
-     width:55%;
->>>>>>> a300a948c03418fbaf02c9e1399d8ca95c27c763
      display: flex;
      margin: auto;
      border-radius: 5px;
@@ -57,12 +53,8 @@ body{
 
 }
 
-<<<<<<< HEAD
 
 @media   (max-width: 600px ) {
-=======
-@media  (max-width: 600px) {
->>>>>>> a300a948c03418fbaf02c9e1399d8ca95c27c763
      #survey-form{
           width: 95%;
      }
