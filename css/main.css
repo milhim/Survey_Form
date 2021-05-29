@@ -49,7 +49,11 @@ body{
     border-radius: 5px;
     margin: 2%;
     cursor: pointer;
+<<<<<<< HEAD
     border: 1px;
+=======
+     border:1px;
+>>>>>>> 5222b53e3e7844bd08a4f1541c7052696c0bcab0
 }
 
 
