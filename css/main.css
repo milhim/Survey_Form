@@ -26,6 +26,7 @@ body{
 #survey-form{
      background-color: #2A2A4A;
      padding: 2%;
+     width:55%;
      display: flex;
      margin: auto;
      border-radius: 5px;
@@ -52,11 +53,6 @@ body{
 
 }
 
-@media  (min-width: 601px) {
-     #survey-form{
-          width: 50%;
-     }
-}
 @media  (max-width: 600px) {
      #survey-form{
           width: 95%;
