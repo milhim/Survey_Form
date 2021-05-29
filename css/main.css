@@ -23,6 +23,9 @@ body{
      text-align: center;
 
 }
+.form{
+     width: 100%;
+}
 #survey-form{
      background-color: #2A2A4A;
      padding: 2%;
