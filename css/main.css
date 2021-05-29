@@ -52,7 +52,7 @@ body{
 
 }
 
-@media  (min-width: 600px) {
+@media  (min-width: 800px) {
      #survey-form{
           width: 50%;
      }
